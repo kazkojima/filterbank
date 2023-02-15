@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TLP2368")(type "KiCad")(uri "${KIPRJMOD}/TLP2368.kicad_sym")(options "")(descr ""))
+)
